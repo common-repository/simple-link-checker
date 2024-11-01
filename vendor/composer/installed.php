@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'sirvelia/simple-link-checker',
+        'pretty_version' => '2.1.0',
+        'version' => '2.1.0.0',
+        'reference' => '35382a22bbddda00daf086924fe11046dfcccf44',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => false,
+    ),
+    'versions' => array(
+        'eftec/bladeone' => array(
+            'pretty_version' => '4.13',
+            'version' => '4.13.0.0',
+            'reference' => 'a24ce564a681fa3e37b2490952915c403ee9e56a',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../eftec/bladeone',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'joanrodas/plubo-routes' => array(
+            'pretty_version' => 'v0.6.1',
+            'version' => '0.6.1.0',
+            'reference' => '34bb5702f3c8fa274a0d32c95bfaa7245bdd7a8f',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../joanrodas/plubo-routes',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'sirvelia/simple-link-checker' => array(
+            'pretty_version' => '2.1.0',
+            'version' => '2.1.0.0',
+            'reference' => '35382a22bbddda00daf086924fe11046dfcccf44',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

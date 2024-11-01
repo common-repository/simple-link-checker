@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e162d;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #00bfff;
+      }
+
+      .cls-3 {
+        stroke: #00bfff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6.42px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1">
+    <g>
+      <rect class="cls-1" width="256" height="256"/>
+      <g id="path6">
+        <path class="cls-4" d="M93.93,0L0,256h19.88L113.81,0h-19.88ZM188.77,0l-14.31,39h19.88L208.66,0h-19.88ZM94.85,256h19.88l14.31-39h-19.88l-14.31,39Z"/>
+      </g>
+      <g>
+        <g>
+          <rect class="cls-3" x="150.19" y="56.69" width="43.75" height="43.75" rx="21.87" ry="21.87"/>
+          <polyline class="cls-3" points="181.78 73.7 169.63 85.85 162.34 78.56"/>
+        </g>
+        <g>
+          <path class="cls-3" d="M163.88,120.88c7.68-7.68,20.12-7.68,27.8,0h0c7.68,7.68,7.68,20.12,0,27.8l-32.68,32.68c-7.68,7.68-20.12,7.68-27.8,0h0c-7.68-7.68-7.68-20.12,0-27.8l4.89-4.89"/>
+          <path class="cls-3" d="M119.8,192.76c-7.68,7.68-20.12,7.68-27.8,0h0c-7.68-7.68-7.68-20.12,0-27.8l32.68-32.68c7.68-7.68,20.12-7.68,27.8,0h0c7.68,7.68,7.68,20.12,0,27.8l-5.08,5.08"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Orden">
+    <rect class="cls-2" x="-364.09" y="-64.78" width="3295.08" height="637.11"/>
+  </g>
+</svg>
